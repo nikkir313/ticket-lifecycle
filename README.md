@@ -19,13 +19,14 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Users submit a ticket through the **OS-Ticket Web Portal** or via **email integration**.  
 - The system assigns the ticket a **unique ID** and logs the **submission time and details**.  
 
-![Ticket Intake](placeholder-image-link-1.jpg)  
+![Ticket Intake]  
 
-### **Step 2: Ticket Categorization & Assignment**  
+### **Step 2: Ticket Categorization & Assignment**(![ticket lifecycle](https://github.com/user-attachments/assets/9dfdd915-57db-4a98-9dbc-1a46f1cfb975)
+  
 - The system applies **automated rules** to categorize the ticket based on predefined criteria.  
 - Administrators or support agents **manually assign** the ticket to the appropriate department.  
 
-![Ticket Assignment](placeholder-image-link-2.jpg)  
+![Ticket Assignment]  
 
 ### **Step 3: Troubleshooting & Investigation**  
 - The assigned agent **reviews the ticket details** and contacts the user if additional information is needed.  
@@ -34,7 +35,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
   2. Performing initial diagnostics.  
   3. Consulting internal documentation or knowledge base articles.  
 
-![Troubleshooting](placeholder-image-link-3.jpg)  
+![Troubleshooting]  
 
 ### **Step 4: Resolution & Response**  
 - The support agent implements a **solution or workaround**.  
@@ -44,14 +45,14 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
   - Steps taken to resolve it.  
   - Any additional recommendations.  
 
-![Resolution](placeholder-image-link-4.jpg)  
+![Resolution]  
 
 ### **Step 5: Ticket Closure & Follow-Up**  
 - The user is notified that the issue has been resolved.  
 - If the user **confirms resolution**, the ticket is closed.  
 - If additional help is needed, the ticket can be **reopened** for further assistance.  
 
-![Ticket Closure](placeholder-image-link-5.jpg)  
+![Ticket Closure]  
 
 ## **Conclusion**  
 Understanding the OS-Ticket lifecycle ensures efficient ticket handling and better customer support. This documentation serves as a guide for **IT teams and helpdesk administrators** to optimize ticket resolution workflows.  
